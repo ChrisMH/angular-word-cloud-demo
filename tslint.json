@@ -24,10 +24,6 @@
     ],
     "interface-over-type-literal": true,
     "label-position": true,
-    "max-line-length": [
-      true,
-      140
-    ],
     "member-access": false,
     "member-ordering": [
       true,
@@ -110,13 +106,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "atc",
+      "awc",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "atc",
+      "awc",
       "kebab-case"
     ],
     "use-input-property-decorator": true,
